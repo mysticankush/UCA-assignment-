@@ -1,7 +1,7 @@
 /**
  * Program for Insertion_sort runtime analysis
  *
- * Compilation : gcc -o Insertion_sort Insertion_sort.c
+ * Compilation : gcc Insertion_sort.c
  * Execution : ./a.out
  *
  * @Ankush and 1910990144  28/07/21
