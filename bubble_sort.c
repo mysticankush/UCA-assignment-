@@ -1,5 +1,5 @@
 /**
- * Program to check Bubble_sort runtime analysis
+ * Program for Bubble_sort runtime analysis
  *
  * @Ankush and 1910990144  26/07/21
  * Assignment -> Day2_Coding_Assignment
