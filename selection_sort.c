@@ -1,7 +1,7 @@
 /**
  * Program for Selection sort runtime analysis
  *
- * Compilation : gcc -o Selection_sort Selection_sort.c
+ * Compilation : gcc selection_sort.c
  * Execution : ./a.out
  *
  * @Ankush and 1910990144  28/07/21
